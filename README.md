@@ -29,6 +29,7 @@ Built using a **hybrid priority scoring model** with a PHP backend and asynchron
 The database architecture is optimized to handle high-frequency behavioral logs. It tracks:
 1. **Product Metrics:** Category, views, and global popularity scores.
 2. **User Session Logs:** Real-time dwell time per product page and asynchronous click streams.
+![image alt](https://github.com/Ifti2001/Behavior-Driven-E-Commerce-Product-Recommendation-System/blob/5c74f32626d9dd63e89649d766df02f6194439bb/Screenshot%202026-06-30%20211206.png)
 
 ---
 
